@@ -18,4 +18,4 @@
 <a href="https://sneakers-eshop-dejvcodes.netlify.app/">Sneakers E-shop</a>
 
 ## License🔐
-[MIT License](LICENSE) 
+[MIT License](LICENSE)
